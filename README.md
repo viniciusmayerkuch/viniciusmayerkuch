@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @viniciusmayerkuch
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 H
-
+- 👋 ola me chamo vinicius 
+- 👀 gosto de jogar roblox e andar de bike
+- 🌱estudo no colegio estadual Duque de Caxias
+- 💞️ Atualmennte estou trabalhando desenvolvendo website em HTML  e CSS
